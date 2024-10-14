@@ -1,0 +1,4 @@
+submissions
+
+1. ipynb file on github repository: https://github.com/J7477/CSCN8010-assignments/blob/main/lab1.ipynb
+2. HTML file github pages: https://j7477.github.io/CSCN8010-assignments/lab1.html
